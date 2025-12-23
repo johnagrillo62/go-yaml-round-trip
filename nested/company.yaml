@@ -1,0 +1,17 @@
+name: TechCorp
+ceo:
+  name: Alice
+  age: 45
+  cars:
+    - make: Tesla
+      model: Model S
+      year: 2022
+    - make: BMW
+      model: X5
+fleet:
+  - make: Ford
+    model: Transit
+    year: 2020
+  - make: Mercedes
+    model: Sprinter
+    year: 2019
